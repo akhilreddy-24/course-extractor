@@ -1,0 +1,672 @@
+[
+    {
+        "title": "LEARN SCRATCH PROGRAMING",
+        "course_link": "/courses/4f629d96-5ed9-4302-ae0e-3479c543a49e",
+        "description": "Scratch Course is the foundation of coding and is a building block of a coding journey. If you want",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "16Lessons",
+            "details_link": "/courses/4f629d96-5ed9-4302-ae0e-3479c543a49e"
+        }
+    },
+    {
+        "title": "LEARN CLOUD COMPUTING BASICS-AWS",
+        "course_link": "/courses/872d1cb6-8469-4797-b267-8c41837b10e2",
+        "description": "In this course we are going to cover the basics and the most important services on AWS,\nAt the end",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "20Lessons",
+            "details_link": "/courses/872d1cb6-8469-4797-b267-8c41837b10e2"
+        }
+    },
+    {
+        "title": "LEARN MOBILE DEVELOPMENT",
+        "course_link": "/courses/2cf11f62-6452-41f1-9b42-303fb371b873",
+        "description": "Mobile application development is the process of creating software applications that run on a mobil",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "24Lessons",
+            "details_link": "/courses/2cf11f62-6452-41f1-9b42-303fb371b873"
+        }
+    },
+    {
+        "title": "LEARN CORE JAVA PROGRAMMING ONLINE",
+        "course_link": "/courses/be32e068-edca-4b41-96ee-4839de6aaebb",
+        "description": "Java is a very popular high-level, class-based, object-oriented programming language that is design",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "41Lessons",
+            "details_link": "/courses/be32e068-edca-4b41-96ee-4839de6aaebb"
+        }
+    },
+    {
+        "title": "LEARN ROBOTICS",
+        "course_link": "/courses/0deafb39-3208-42db-93e3-bd69f8562f82",
+        "description": "You can open all kinds of doors for advancement in so many careers with a basic understanding of el",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "25Lessons",
+            "details_link": "/courses/0deafb39-3208-42db-93e3-bd69f8562f82"
+        }
+    },
+    {
+        "title": "LEARN JAVASCRIPT",
+        "course_link": "/courses/fc9e2faf-dbe1-47bf-994c-f566a9ad3b42",
+        "description": "JavaScript is the most popular programming language in the world. It powers the entire modern web.",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "18Lessons",
+            "details_link": "/courses/fc9e2faf-dbe1-47bf-994c-f566a9ad3b42"
+        }
+    },
+    {
+        "title": "LEARN NODE JS",
+        "course_link": "/courses/b0f2428a-c1c0-4def-8ac2-692a2d51a5b4",
+        "description": "Node.js developers are in high demand and the language is used for everything from traditional web",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "18Lessons",
+            "details_link": "/courses/b0f2428a-c1c0-4def-8ac2-692a2d51a5b4"
+        }
+    },
+    {
+        "title": "LEARN CLOUD COMPUTING ADVANCE-AWS",
+        "course_link": "/courses/e0edfcf8-9e0f-4c7a-bc90-3000822924e2",
+        "description": "DESCRIPTIONThis introduction to cloud computing on Amazon AWS course takes you from the AWS Ad",
+        "price": "$35per session",
+        "details": {
+            "number_of_lessons": "18Lessons",
+            "details_link": "/courses/e0edfcf8-9e0f-4c7a-bc90-3000822924e2"
+        }
+    },
+    {
+        "title": "PYTHON PROGRAMMING-BEGINNER",
+        "course_link": "/courses/fc29b015-962f-41fc-bc93-181d3ed87842",
+        "description": "Python is a language with simple syntax, and a powerful set of libraries. It has a rich programming",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "16Lessons",
+            "details_link": "/courses/fc29b015-962f-41fc-bc93-181d3ed87842"
+        }
+    },
+    {
+        "title": "Roblox Programming For Beginners",
+        "course_link": "/courses/fe8f5696-eb0e-48a0-a505-147e9c502b65",
+        "description": "Explore the dynamic universe of game development with our \"Roblox Game Development Fundamentals\" cou",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "15Lessons",
+            "details_link": "/courses/fe8f5696-eb0e-48a0-a505-147e9c502b65"
+        }
+    },
+    {
+        "title": "PYTHON PROGRAMMING-INTERMEDIATE",
+        "course_link": "/courses/9101883f-00af-48f7-949a-36cfc60ecfcf",
+        "description": "Take your python skills to the next level and start building real applications.Python is a pro",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "16Lessons",
+            "details_link": "/courses/9101883f-00af-48f7-949a-36cfc60ecfcf"
+        }
+    },
+    {
+        "title": "PYTHON PROGRAMMING-ADVANCE",
+        "course_link": "/courses/f9f7b907-5f4f-472d-a7e1-d44d38255a42",
+        "description": "If you already know Python basics, then this training is the next step in your Python learning path",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "30Lessons",
+            "details_link": "/courses/f9f7b907-5f4f-472d-a7e1-d44d38255a42"
+        }
+    },
+    {
+        "title": "PYTHON PROGRAMMING GROUP CLASSES - BEGINNER",
+        "course_link": "/courses/cfcf2aa4-e220-4ce7-844e-563ebfaa98bd",
+        "description": "Python is a language with simple syntax, and a powerful set of libraries. It has a rich programming",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "16Lessons",
+            "details_link": "/courses/cfcf2aa4-e220-4ce7-844e-563ebfaa98bd"
+        }
+    },
+    {
+        "title": "Advanced Roblox Scripting Workshop",
+        "course_link": "/courses/c5e8d5e8-58cb-4836-94e4-51314ffba4f3",
+        "description": "\"Are you ready to unlock the full potential of your Roblox game development skills? Join our Interme",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "14Lessons",
+            "details_link": "/courses/c5e8d5e8-58cb-4836-94e4-51314ffba4f3"
+        }
+    },
+    {
+        "title": "Robotics Adventure Awaits:Join Our Summer Camp for Young Tech Wizards!",
+        "course_link": "/courses/cd8e693c-c6a7-4dca-aeb1-4b7cf1dde495",
+        "description": "This course is designed to introduce beginners to the world of robotics. Learners will be taught the",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "16Lessons",
+            "details_link": "/courses/cd8e693c-c6a7-4dca-aeb1-4b7cf1dde495"
+        }
+    },
+    {
+        "title": "Java Project-Based Course",
+        "course_link": "/courses/6a0fc4c9-2074-4854-ac31-c7dfad9ed932",
+        "description": "Java Project-Based Course for Intermediate Level Students ;Overview: This course is designed for int",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/6a0fc4c9-2074-4854-ac31-c7dfad9ed932"
+        }
+    },
+    {
+        "title": "Artificial Intelligence Adventures: Building AI Chatbot Like Chatgpt (For Kids)",
+        "course_link": "/courses/51890aee-163e-4ef7-86ff-fe0d6acba7e1",
+        "description": "Unlock the power of AI chatbots in our 10-day course! Gain comprehensive knowledge of chatbot develo",
+        "price": "$22per session",
+        "details": {
+            "number_of_lessons": "10Lessons",
+            "details_link": "/courses/51890aee-163e-4ef7-86ff-fe0d6acba7e1"
+        }
+    },
+    {
+        "title": "Python Playground: Create a Hangman Game",
+        "course_link": "/courses/c4bdeda0-9565-4073-9eeb-67f4a79e9ec7",
+        "description": "Python Playground : Create a Hangman Game is an exciting and engaging course designed specifically f",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/c4bdeda0-9565-4073-9eeb-67f4a79e9ec7"
+        }
+    },
+    {
+        "title": "Scratch Playground: Create a Maze Game!",
+        "course_link": "/courses/cc34d7ec-62ae-4018-b75e-207df98a4300",
+        "description": "Scratch Playground : Create a Maze Game! is a beginner-level course designed to introduce kids to th",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/cc34d7ec-62ae-4018-b75e-207df98a4300"
+        }
+    },
+    {
+        "title": "Artificial Intelligence Essentials: Summer Bootcamp",
+        "course_link": "/courses/0544dc35-181e-4e75-b26d-69393de68022",
+        "description": "Join us for this engaging 5-day summer bootcamp where we will explore the fascinating world of Artif",
+        "price": "$13per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/0544dc35-181e-4e75-b26d-69393de68022"
+        }
+    },
+    {
+        "title": "Time Mastery Camp: AI for Jobs, Business, Careers",
+        "course_link": "/courses/8ca45c22-2dae-4c21-840c-8c9a177d09b3",
+        "description": "The \"AI for Productivity and Time Management\" course: 🚀💡\nDay 1: Introduction to AI and its Applica",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "11Lessons",
+            "details_link": "/courses/8ca45c22-2dae-4c21-840c-8c9a177d09b3"
+        }
+    },
+    {
+        "title": "Build Your Own Theme Park in Roblox",
+        "course_link": "/courses/5d6b48ea-641e-4707-b7cf-c4f270789c9e",
+        "description": "Roblox Studio fundamentals are taught through fun and interactive projects. Lectures, projects, hand",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/5d6b48ea-641e-4707-b7cf-c4f270789c9e"
+        }
+    },
+    {
+        "title": "Java Coding Summer Camp for Young Minds",
+        "course_link": "/courses/7ef0ff36-cf58-4ce7-a010-b6bc7350d78a",
+        "description": "Java Journey: Coding Camp for Curious Minds\" is a fun-filled, 5-day adventure into the world of prog",
+        "price": "$12per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/7ef0ff36-cf58-4ce7-a010-b6bc7350d78a"
+        }
+    },
+    {
+        "title": "AI Camp for Entrepreneurs: Build Business Success",
+        "course_link": "/courses/72423503-2e09-4404-92f5-48292dda42e3",
+        "description": "Welcome to the world of AI in entrepreneurship!  In this course, we will embark on a thrilling journ",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/72423503-2e09-4404-92f5-48292dda42e3"
+        }
+    },
+    {
+        "title": "ChatGPT Boot Camp: Basics & Best Uses",
+        "course_link": "/courses/24e3bb16-bc23-4e6e-a74c-1ed32005cf0f",
+        "description": "Join us for an exciting journey into the world of AI chatbots with this 5-day bootcamp. You'll learn",
+        "price": "$12per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/24e3bb16-bc23-4e6e-a74c-1ed32005cf0f"
+        }
+    },
+    {
+        "title": "Create-A-Bot: A Project-Based Robotics Exploration",
+        "course_link": "/courses/31e70d66-efd5-44fc-929c-7de0e524624b",
+        "description": "Ignite your child's tech curiosity with our \"RoboRacers\" camp! Over five days, campers will delve in",
+        "price": "$13per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/31e70d66-efd5-44fc-929c-7de0e524624b"
+        }
+    },
+    {
+        "title": "Java & Proramming",
+        "course_link": "/courses/89d301ea-ff81-4224-8d38-a35e8575bffd",
+        "description": "\" Project outline for JAVA PROJECT BASED BOOTCAMP\n1: Introduction to Java and Programming Basics.\n2.",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/89d301ea-ff81-4224-8d38-a35e8575bffd"
+        }
+    },
+    {
+        "title": "Chatbot Creators: Design a ChatGPT-like AI",
+        "course_link": "/courses/1af061fc-0890-40ac-98ae-01285283c5ff",
+        "description": "Join us on a 7-day bootcamp to step into the world of AI and create your own chatbot like ChatGPT. Y",
+        "price": "$13per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/1af061fc-0890-40ac-98ae-01285283c5ff"
+        }
+    },
+    {
+        "title": "Web Development from scratch",
+        "course_link": "/courses/37b3b505-f8ca-4fd6-92e1-56da829f1805",
+        "description": "Unlock the boundless potential of web development with our \"Web Development Essentials\" course. Whet",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "6Lessons",
+            "details_link": "/courses/37b3b505-f8ca-4fd6-92e1-56da829f1805"
+        }
+    },
+    {
+        "title": "Summer Camp: Introduction to Python",
+        "course_link": "/courses/9829d760-3d63-456a-a1d3-25b96e554819",
+        "description": "Step into our 7-day \"Python Project Playground\" camp where coding meets creativity! Kids will explor",
+        "price": "$11per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/9829d760-3d63-456a-a1d3-25b96e554819"
+        }
+    },
+    {
+        "title": "AI Secrets Revealed: Master Productivity Hacks That Will Blow Your Mind! (For Kids)",
+        "course_link": "/courses/af72f1d6-ee1b-48ba-a217-30985c593bb5",
+        "description": "Boost your productivity with AI! \n\nJoin our \"AI for Productivity and Time Management\" course and lea",
+        "price": "$22per session",
+        "details": {
+            "number_of_lessons": "11Lessons",
+            "details_link": "/courses/af72f1d6-ee1b-48ba-a217-30985c593bb5"
+        }
+    },
+    {
+        "title": "Summer Bootcamp with JavaScript: Real Projects, Real Results",
+        "course_link": "/courses/189a9ef3-be9d-4b42-a09c-75665fa36e3e",
+        "description": "In this 5-day camp, you'll dive headfirst into JavaScript, one of the world's most popular programmi",
+        "price": "$12per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/189a9ef3-be9d-4b42-a09c-75665fa36e3e"
+        }
+    },
+    {
+        "title": "AI Disruption: Top Entrepreneurs Harnessing AI for Unprecedented Success! (For Kids)",
+        "course_link": "/courses/88ac0ed1-e388-41c9-a1b4-bd82beb52c10",
+        "description": "Understand the role and potential of AI in entrepreneurship, learn the fundamentals, explore data ac",
+        "price": "$22per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/88ac0ed1-e388-41c9-a1b4-bd82beb52c10"
+        }
+    },
+    {
+        "title": "The AI Writer's Masterclass: Innovation and Inspiration in Creative Writing! (For Kids)",
+        "course_link": "/courses/7ad05239-54cb-4cbb-8cec-4065512db97a",
+        "description": "Enhance your creative writing skills with AI! Join our 10-day course and explore AI's role in writin",
+        "price": "$22per session",
+        "details": {
+            "number_of_lessons": "10Lessons",
+            "details_link": "/courses/7ad05239-54cb-4cbb-8cec-4065512db97a"
+        }
+    },
+    {
+        "title": "Web Development Pro: Intermediate Level",
+        "course_link": "/courses/7f20a234-094c-457a-b2b4-8712bd8f0616",
+        "description": "Ready to unlock the full potential of web development? Join our \"Intermediate Web Development Master",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/7f20a234-094c-457a-b2b4-8712bd8f0616"
+        }
+    },
+    {
+        "title": "Scratch Playground: Create a Scroller Game!",
+        "course_link": "/courses/03549fee-5478-4352-b146-f2a2c8561191",
+        "description": "Scratch Playground : Create a Scroller Game is an intermediate level course designed to teach kids t",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/03549fee-5478-4352-b146-f2a2c8561191"
+        }
+    },
+    {
+        "title": "AI Pro: Creative Writing Camp for Adults",
+        "course_link": "/courses/94c549e6-ebca-4bbe-b1a8-17beda62b6d5",
+        "description": "🚀 Welcome to Creative Writing with AI for ADULTS! \nUnleash your creativity with cutting-edge AI tec",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "10Lessons",
+            "details_link": "/courses/94c549e6-ebca-4bbe-b1a8-17beda62b6d5"
+        }
+    },
+    {
+        "title": "Python Playground: Create Your Own Snake Game",
+        "course_link": "/courses/5ba67aa9-b272-42ec-88d2-81cd5af6c643",
+        "description": "Through this course, participants will learn the fundamentals of Python programming language, as wel",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/5ba67aa9-b272-42ec-88d2-81cd5af6c643"
+        }
+    },
+    {
+        "title": "Build your own Calculator using Python Bootcamp for kids",
+        "course_link": "/courses/848a2ee8-b9ce-464a-bcbc-78fcdd67b9dd",
+        "description": "This bootcamp is a fun and engaging program designed to introduce children to the basics of programm",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/848a2ee8-b9ce-464a-bcbc-78fcdd67b9dd"
+        }
+    },
+    {
+        "title": "Python Playground: Create a Tic Tac Toe Game",
+        "course_link": "/courses/4d6f6d90-a53f-4792-a491-1697bb384d57",
+        "description": "An interactive and hands-on tutorial designed to help learners build their programming skills while",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/4d6f6d90-a53f-4792-a491-1697bb384d57"
+        }
+    },
+    {
+        "title": "Scratch Playground: Create a Flappy Bird Game!",
+        "course_link": "/courses/d6e5c1ea-f3bf-4435-a1c6-7566aef9ddc2",
+        "description": "Scratch Playground 103: Create a Flappy Bird is a beginner to intermediate level course designed to",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/d6e5c1ea-f3bf-4435-a1c6-7566aef9ddc2"
+        }
+    },
+    {
+        "title": "HTML, CSS, JavaScript: 7-Day Summer Bootcamp",
+        "course_link": "/courses/3cdb1ba6-7b9d-4a04-8ba4-bfffbef9a77f",
+        "description": "Jump into the vibrant world of coding with our engaging 7-day summer camp! Starting from scratch, yo",
+        "price": "$12per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/3cdb1ba6-7b9d-4a04-8ba4-bfffbef9a77f"
+        }
+    },
+    {
+        "title": "Hands-on Java: Project-based Learning for Coding Novices",
+        "course_link": "/courses/6ffc967e-8caf-4540-b0f3-c1e684195d03",
+        "description": "Embark on a coding adventure with our \"Code, Create, Conquer\" Java camp! In just 7 days, kids will l",
+        "price": "$11per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/6ffc967e-8caf-4540-b0f3-c1e684195d03"
+        }
+    },
+    {
+        "title": "Python Playground: Create a Memory Game",
+        "course_link": "/courses/8c6151e3-3141-4a64-8fe0-d5df205e750d",
+        "description": "Python Playground: Create a Memory Game is a beginner-level course designed for kids who are interes",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/8c6151e3-3141-4a64-8fe0-d5df205e750d"
+        }
+    },
+    {
+        "title": "Summer Bootcamp: 5-Day Scratch Programming for Beginners",
+        "course_link": "/courses/db80cdd0-d396-482a-913e-1fc81c8d9ac4",
+        "description": "Embark on an exciting coding adventure with our 5-day Scratch Programming camp! Designed for beginne",
+        "price": "$12per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/db80cdd0-d396-482a-913e-1fc81c8d9ac4"
+        }
+    },
+    {
+        "title": "5-Day Summer Camp: Python for Beginners",
+        "course_link": "/courses/9e2df5e5-3dc5-4c87-b385-f464642d8562",
+        "description": "Dive into coding with our 5-day \"Python Playground\" camp! Kids will explore Python, a popular langua",
+        "price": "$12per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/9e2df5e5-3dc5-4c87-b385-f464642d8562"
+        }
+    },
+    {
+        "title": "Build a Text analyzer using Python Bootcamp for kids",
+        "course_link": "/courses/0884af64-fb1b-4c15-9850-3315b99fd92d",
+        "description": "The Build a Text Analyzer using Python Bootcamp for Kids is an educational program designed to intro",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/0884af64-fb1b-4c15-9850-3315b99fd92d"
+        }
+    },
+    {
+        "title": "Scratch Playground : Create a Platformer Game!",
+        "course_link": "/courses/4b7a6968-f8f6-4f98-bd8d-357b71ca9496",
+        "description": "Scratch Playground : Create a Platformer Game is an intermediate level course designed to teach kids",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/4b7a6968-f8f6-4f98-bd8d-357b71ca9496"
+        }
+    },
+    {
+        "title": "Introduction to Artificial Intelligence!",
+        "course_link": "/courses/9e0490f4-e45b-41df-858c-34a4eba5836b",
+        "description": "Welcome to the \"Introduction to Artificial Intelligence and Python\" course! This course is designed",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/9e0490f4-e45b-41df-858c-34a4eba5836b"
+        }
+    },
+    {
+        "title": "Python Playground: Create a Rock, Paper, Scissors Game",
+        "course_link": "/courses/fd86f75c-b1b5-450d-98ee-7e3ad0b1e357",
+        "description": "This is an engaging course designed for kids who are interested in learning programming with Python.",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/fd86f75c-b1b5-450d-98ee-7e3ad0b1e357"
+        }
+    },
+    {
+        "title": "AI in Stock Market Success: Career Growth Camp !!",
+        "course_link": "/courses/c110330f-d41d-48fe-8433-88e7527c4d77",
+        "description": "Are you ready to unlock the secrets of predicting stock prices using AI? 📈🤖 Join our immersive cou",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "10Lessons",
+            "details_link": "/courses/c110330f-d41d-48fe-8433-88e7527c4d77"
+        }
+    },
+    {
+        "title": "From Beginner to AI Pro: Kickstart Your Journey With Artificial Intelligence! (For Kids)",
+        "course_link": "/courses/1164fafc-7e5b-4126-b1d6-ce228e266345",
+        "description": "Dive into the world of AI! 🤖 Join our \"Introduction to Artificial Intelligence\" course and unlock t",
+        "price": "$22per session",
+        "details": {
+            "number_of_lessons": "20Lessons",
+            "details_link": "/courses/1164fafc-7e5b-4126-b1d6-ce228e266345"
+        }
+    },
+    {
+        "title": "Game development using python",
+        "course_link": "/courses/a06e18a8-3e06-4777-85c5-fb22b35ea46d",
+        "description": "Welcome to the \"Introduction to Python Game Development\" course! In this course, you'll embark on a",
+        "price": "$30per session",
+        "details": {
+            "number_of_lessons": "4Lessons",
+            "details_link": "/courses/a06e18a8-3e06-4777-85c5-fb22b35ea46d"
+        }
+    },
+    {
+        "title": "Build a Image manipulator using Python Bootcamp for kids",
+        "course_link": "/courses/50986fd0-ea11-4d2e-971f-5fb88fb81542",
+        "description": "The Build a Image Manipulator using Python Bootcamp for Kids is a program designed to introduce chil",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/50986fd0-ea11-4d2e-971f-5fb88fb81542"
+        }
+    },
+    {
+        "title": "Build a Weather app using Python Bootcamp for kids",
+        "course_link": "/courses/5f754053-de57-4f46-9bb3-b11d5c9e42e0",
+        "description": "Build a Weather App using Python Bootcamp for Kids is an educational program designed to introduce y",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/5f754053-de57-4f46-9bb3-b11d5c9e42e0"
+        }
+    },
+    {
+        "title": "Build Your Own Roblox Battle Arena",
+        "course_link": "/courses/f6853a9e-84ce-40c6-9362-00fcf701e459",
+        "description": "Roblox Studio fundamentals are taught through fun and interactive projects. Lectures, projects, hand",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/f6853a9e-84ce-40c6-9362-00fcf701e459"
+        }
+    },
+    {
+        "title": "The Millionaire's AI Playbook: Learn How to Predict Stock Prices! (For Kids)",
+        "course_link": "/courses/931b56d8-4192-43e1-ba10-0ce6f94cb2ed",
+        "description": "Learn to predict stock prices using the incredible potential of AI and machine learning in our compr",
+        "price": "$22per session",
+        "details": {
+            "number_of_lessons": "10Lessons",
+            "details_link": "/courses/931b56d8-4192-43e1-ba10-0ce6f94cb2ed"
+        }
+    },
+    {
+        "title": "Machine Learning: 7-Day Project-Based Summer Camp",
+        "course_link": "/courses/1db857a4-f374-49fb-af9c-0f6d2e5ada45",
+        "description": "Join our \"Machine Learning Mania\" camp for a 7-day tech adventure! Kids will tackle machine learning",
+        "price": "$11per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/1db857a4-f374-49fb-af9c-0f6d2e5ada45"
+        }
+    },
+    {
+        "title": "AI Pro Camp: Career Growth Catalyst",
+        "course_link": "/courses/7f24d6b5-1645-4184-83d4-6deab75b13f1",
+        "description": "Our Intro to AI for Adults course is designed to equip professionals with essential knowledge and pr",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "20Lessons",
+            "details_link": "/courses/7f24d6b5-1645-4184-83d4-6deab75b13f1"
+        }
+    },
+    {
+        "title": "Minecraft Java Programming for Beginners",
+        "course_link": "/courses/0bc0c9fa-9749-4129-91de-c286a474e9b3",
+        "description": "Session-1: Introduction to Java programming and Minecraft. Lesson 2: Getting Started in Creative Mod",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/0bc0c9fa-9749-4129-91de-c286a474e9b3"
+        }
+    },
+    {
+        "title": "Build a Chatbot using Python Bootcamp for kids",
+        "course_link": "/courses/5abad7b0-953d-4527-8aa9-4d3ca80ff500",
+        "description": "This bootcamp is a fun and interactive program designed to teach children how to create their own ch",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/5abad7b0-953d-4527-8aa9-4d3ca80ff500"
+        }
+    },
+    {
+        "title": "Build a Password generator using Python Bootcamp for kids",
+        "course_link": "/courses/7544e04d-82d5-447e-9935-c784455c2de3",
+        "description": "Welcome to the Build a Password Generator using Python Bootcamp for Kids! In this bootcamp, you will",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/7544e04d-82d5-447e-9935-c784455c2de3"
+        }
+    },
+    {
+        "title": "Scratch Playground: Create a Space Game!",
+        "course_link": "/courses/7472b97e-7b73-42dc-b0ef-972832e7bad5",
+        "description": "Scratch Playground : Create a Space Game is an intermediate-level course designed to introduce kids",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/7472b97e-7b73-42dc-b0ef-972832e7bad5"
+        }
+    },
+    {
+        "title": "Create Your Own Roblox Obstacle Course",
+        "course_link": "/courses/5a45c3b4-3f6e-48dc-ab92-71a1cd38db28",
+        "description": "Roblox enthusiasts who want to learn how to design and build their own custom obstacle courses withi",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "8Lessons",
+            "details_link": "/courses/5a45c3b4-3f6e-48dc-ab92-71a1cd38db28"
+        }
+    },
+    {
+        "title": "Java Minecraft Creative or Survival Mode",
+        "course_link": "/courses/ebe89ac6-5b3a-479d-adab-d6e2d5297773",
+        "description": "1. Title: Minecraft Java Programming for Beginners Overview: This class is designed for complete beg",
+        "price": "$20per session",
+        "details": {
+            "number_of_lessons": "7Lessons",
+            "details_link": "/courses/ebe89ac6-5b3a-479d-adab-d6e2d5297773"
+        }
+    },
+    {
+        "title": "AI Camp for Jobs & Business:Build Your own ChatGPT",
+        "course_link": "/courses/eab79907-4de4-4413-bb44-a92e253aa5c6",
+        "description": "🌟Welcome to the Chatbot Mastery Course! 🎓\n\nGet ready to unlock the secrets of building intelligent",
+        "price": "$25per session",
+        "details": {
+            "number_of_lessons": "10Lessons",
+            "details_link": "/courses/eab79907-4de4-4413-bb44-a92e253aa5c6"
+        }
+    },
+    {
+        "title": "HTML, CSS, JavaScript Essentials: 5-Day Coding Bootcamp",
+        "course_link": "/courses/2bf6f84c-f096-459a-a8fb-e629d263f109",
+        "description": "Unleash your creativity in our fun and interactive 5-day summer camp. No prior experience needed. Yo",
+        "price": "$13per session",
+        "details": {
+            "number_of_lessons": "5Lessons",
+            "details_link": "/courses/2bf6f84c-f096-459a-a8fb-e629d263f109"
+        }
+    }
+]
